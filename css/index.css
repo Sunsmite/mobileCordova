@@ -1,0 +1,11 @@
+html {
+	background-color: #92a8d1;
+}
+#btnTakePhoto {
+    color: black;
+	font-size: 24px;
+}
+#showGallery {
+    color: black;
+	font-size: 24px;
+}
